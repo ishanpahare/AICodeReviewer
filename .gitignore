@@ -1,0 +1,12 @@
+# Java
+target/
+*.class
+.idea/
+*.iml
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
